@@ -7,6 +7,10 @@
   },
   "author": "Lex Lopez lexbs578@gmail.com",
   "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  
   "repository": {
     "type": "git",
     "url": "(index.js)"
