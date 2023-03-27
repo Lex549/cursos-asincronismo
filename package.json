@@ -5,18 +5,16 @@
   "scripts": {
     "callback": "node src/callback/challenge.js"
   },
-  "author": "Lex Lopez lexbs578@gmail.com",
-  "license": "MIT",
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
-  },
-  
-  "repository": {
-    "type": "git",
-    "url": "(index.js)"
-  },
+
   "keywords": [
     "javascript"
   ],
-  "description": ""
+
+"author": "Lex Lopez lexbs578@gmail.com",
+"license": "MIT",
+"dependencies": {
+  "node-fetch": "^3.3.0",
+  "xmlhttprequest": "^1.8.0"  
+},
+  "type": "module"
 }
